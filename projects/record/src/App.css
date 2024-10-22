@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+.header {
+  background-color: rgb(50, 160, 229);
+  padding: 14px;
+  width: 100%;
+}
+.form {
+  margin-top: 20px;
+}
+
+.row {
+  height: 530px;
+  width: 530px;
+  margin-top: 15px;
+}
+
+.r {
+  display: flex;
+  height: 41px;
+  width: 10px;
+}
+
+.data {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 14px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.da {
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+  padding: 0px 9px 0px 9px;
+  box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
+}
